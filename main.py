@@ -5,7 +5,7 @@ from time import sleep
 
 #
 # DO NOT CHANGE ANY OF THE REMAINING PROGRAM
-# CURRENT LOOP TIME = 142 SECONDS
+# CURRENT LOOP TIME = 148 SECONDS
 # LOOP MUST EXCEED 120 SECONDS DUE TO TEK POD COOLDOWN
 
 class Point:
@@ -92,6 +92,7 @@ while True:
     pyautogui.press("e")
     sleep(3)
     pyautogui.press("e")
+    Sleep(6)
     
     
 
