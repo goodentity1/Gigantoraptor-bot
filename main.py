@@ -92,7 +92,7 @@ while True:
     pyautogui.press("e")
     sleep(3)
     pyautogui.press("e")
-    Sleep(6)
+    sleep(6)
     
     
 
