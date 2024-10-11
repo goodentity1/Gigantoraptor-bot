@@ -5,7 +5,8 @@ from time import sleep
 
 #
 # DO NOT CHANGE ANY OF THE REMAINING PROGRAM
-# CURRENT LOOP TIME = 169 SECONDS 
+# CURRENT LOOP TIME = 142 SECONDS
+# LOOP MUST EXCEED 120 SECONDS DUE TO TEK POD COOLDOWN
 
 class Point:
     def __init__(self, x, y) -> None:
@@ -57,39 +58,39 @@ while True:
     pyautogui.press("e")
     sleep(6)
     pyautogui.press("e")
-    sleep(6)
+    sleep(3)
     pyautogui.press("e")
     sleep(6)
     pyautogui.press("e")
-    sleep(6)
+    sleep(3)
     pyautogui.press("e")
     sleep(6)
     pyautogui.press("e")
-    sleep(6)
+    sleep(3)
     pyautogui.press("e")
     sleep(6)
     pyautogui.press("e")
-    sleep(6)
+    sleep(3)
     pyautogui.press("e")
     sleep(6)
     pyautogui.press("e")
-    sleep(6)
+    sleep(3)
     pyautogui.press("e")
     sleep(6)
     pyautogui.press("e")
-    sleep(6)
+    sleep(3)
     pyautogui.press("e")
     sleep(6)
     pyautogui.press("e")
-    sleep(6)
+    sleep(3)
     pyautogui.press("e")
     sleep(6)
     pyautogui.press("e")
-    sleep(6)
+    sleep(3)
     pyautogui.press("e")
     sleep(6)
     pyautogui.press("e")
-    sleep(6)
+    sleep(3)
     pyautogui.press("e")
     
     
